@@ -2,7 +2,7 @@
 
 alibabama401 聚焦德州扑克俱乐部、德州金币大厅、德州竞技赛事app、Telegram Poker Bot、捕鱼游戏和周易占卜系统源码。
 
-[德州俱乐部](https://github.com/alibabama401/texas-holdem-club) · [德州金币大厅 / 德州积分大厅](https://github.com/alibabama401/texas-holdem-engine) · [德州 AI 源码](https://github.com/alibabama401/holdem-ai-source) · [德州竞技赛事](https://github.com/alibabama401/Texas-Hold-em-Tournament-Source-Code) · [捕鱼](https://github.com/alibabama401/Fishing-Game-Complete-Source-Art) · [周易占卜 / 八字](https://github.com/alibabama401/bazi-calculator)
+[德州俱乐部](https://github.com/alibabama401/texas-holdem-club) · [德州金币大厅 / 德州积分大厅](https://github.com/alibabama401/texas-holdem-engine) · [德州 AI 源码](https://github.com/alibabama401/holdem-ai-source) · [德州竞技赛事](https://github.com/alibabama401/Texas-Hold-em-Tournament-Source-Code) · [捕鱼](https://github.com/alibabama401/Fishing-Game-Complete-Source-Art) · [周易占卜 / 八字](https://github.com/alibabama401/I-Ching-BaZi-Complete-Source)
 
 ## 重点方向
 
@@ -32,13 +32,12 @@ alibabama401 聚焦德州扑克俱乐部、德州金币大厅、德州竞技赛�
 
 | 项目 | 说明 |
 | --- | --- |
-| [Fishing-Game-Complete-Source-Art](https://github.com/alibabama401/Fishing-Game-Complete-Source-Art) | 多种捕鱼游戏，玩法多，小游戏多
+| [Fishing-Game-Complete-Source-Art](https://github.com/alibabama401/Fishing-Game-Complete-Source-Art) | 多种捕鱼游戏，玩法多，小游戏多|
 ## 周易占卜与命理工具
 
 | 项目 | 说明 |
 | --- | --- |
-| [bazi-calculator](https://github.com/alibabama401/bazi-calculator) | 周易八字计算器源码，适合八字排盘、命理工具、五行分析和传统文化应用 |
-
+| [I-Ching-BaZi-Complete-Source](https://github.com/alibabama401/I-Ching-BaZi-Complete-Source) | 周易八字排盘源码，适合八字排盘、紫微斗数，奇门遁甲，大六壬，神煞，四柱八字|
 ## 推荐项目页面
 
 - GitHub 主页：https://github.com/alibabama401
