@@ -38,7 +38,7 @@ alibabama401 聚焦德州扑克俱乐部、德州金币大厅、德州竞技赛�
 
 | 项目 | 说明 |
 | --- | --- |
-| [I-Ching-BaZi-Complete-Source](https://github.com/alibabama401/I-Ching-BaZi-Complete-Source) | 周易八字排盘源码，包含四柱八字、刑冲关系、神煞、奇门遁甲、七政四余排盘、大六壬、紫微斗数等各种周易算法|
+| [I-Ching-BaZi-Complete-Source](https://github.com/alibabama401/I-Ching-BaZi-Complete-Source) | 周易八字排盘源码，包含四柱八字、刑冲关系、神煞、奇门遁甲、七政四余排盘、大六壬、紫微斗数等各种周易|
 ## 推荐项目页面
 
 - GitHub 主页：https://github.com/alibabama401
