@@ -2,14 +2,14 @@
 
 alibabama401 聚焦德州扑克俱乐部、德州金币大厅、Texas Holdem Engine、德州 AI、Telegram Poker Bot、桌面端扑克应用和周易占卜系统源码。
 
-[德州俱乐部](https://github.com/alibabama401/texas-holdem-club) · [德州金币大厅 / 引擎](https://github.com/alibabama401/texas-holdem-engine) · [德州 AI 源码](https://github.com/alibabama401/holdem-ai-source) · [德州 TG Bot](https://github.com/alibabama401/telegram-poker-bot) · [德州扑克桌面端](https://github.com/alibabama401/texas-holdem-desktop) · [周易占卜 / 八字](https://github.com/alibabama401/bazi-calculator)
+[德州俱乐部](https://github.com/alibabama401/texas-holdem-club) · [德州金币大厅 / 德州积分大厅](https://github.com/alibabama401/texas-holdem-engine) · [德州 AI 源码](https://github.com/alibabama401/holdem-ai-source) · [德州 TG Bot](https://github.com/alibabama401/telegram-poker-bot) · [捕鱼](https://github.com/alibabama401/Fishing-Game-Complete-Source-Art) · [周易占卜 / 八字](https://github.com/alibabama401/bazi-calculator)
 
 ## 重点方向
 
-- 德州扑克俱乐部源码：房间、俱乐部、牌桌、玩家管理和产品展示
-- 德州金币大厅与扑克引擎：牌局逻辑、规则处理、结算流程和服务端能力
-- 德州 AI：扑克策略、AI 决策、牌局分析和算法研究
-- 德州 TG 项目：Telegram Poker Bot、社群扑克工具和机器人交互
+- 德州扑克俱乐部源码：私人局，俱乐部，联盟以及八个德州玩法
+- 德州金币大厅与德州积分大厅：短牌，经典德州，SNG，单桌锦标赛，多桌锦标赛，私人局，排行榜
+- 德州 AI：扑克策略、AI 决策、AI源码和AI辅助如阿健
+- 捕鱼游戏：经典捕鱼游戏大厅，里面有多个小游戏
 - 周易占卜：八字计算器、排盘、五行分析、传统文化应用和在线工具
 
 ## 德州俱乐部与金币大厅
@@ -41,8 +41,8 @@ alibabama401 聚焦德州扑克俱乐部、德州金币大厅、Texas Holdem Eng
 
 ## 关键词
 
-德州扑克源码、德州俱乐部源码、德州金币大厅、德州 AI、Texas Holdem Engine、Poker AI Source Code、Telegram Poker Bot、德州 TG、八字计算器、周易占卜源码。
+德州扑克源码、德州俱乐部源码、德州金币大厅、捕鱼、德州 AI、Texas Holdem Engine、Poker AI Source Code、Telegram Poker Bot、德州 TG、八字计算器、周易占卜源码。
 
 ## 免责声明
 
-本主页用于源码项目展示、技术研究、产品评估和合规软件开发。扑克、游戏、机器人和命理相关项目请根据所在地法律法规、平台规则和业务要求合法合规使用。
+本主页用于源码项目展示、技术研究、产品评估和合规软件开发。扑克、捕鱼、游戏、机器人和命理相关项目请根据所在地法律法规、平台规则和业务要求合法合规使用。
