@@ -3,7 +3,7 @@
 
 alibabama401 聚焦德州扑克俱乐部、德州金币大厅、德州竞技赛事app、Telegram Poker Bot、捕鱼游戏和周易八字排盘占卜系统源码。
 
-[德州俱乐部](https://github.com/alibabama401/texas-holdem-club) · [德州金币大厅 / 德州积分大厅](https://github.com/alibabama401/texas-holdem-engine) · [德州 AI 源码](https://github.com/alibabama401/holdem-ai-source) · [德州竞技赛事](https://github.com/alibabama401/Texas-Hold-em-Tournament-Source-Code) · [捕鱼](https://github.com/alibabama401/Fishing-Game-Complete-Source-Art) · [周易占卜 / 八字](https://github.com/alibabama401/I-Ching-BaZi-Complete-Source)
+[德州俱乐部](https://github.com/alibabama401/texas-holdem-club) · [德州金币大厅 / 德州积分大厅](https://github.com/alibabama401/Texas-Holdem-Online-Poker-Platform) · [德州 AI 源码](https://github.com/alibabama401/holdem-ai-source) · [德州竞技赛事](https://github.com/alibabama401/Texas-Hold-em-Tournament-Source-Code) · [捕鱼](https://github.com/alibabama401/Fishing-Game-Complete-Source-Art) · [周易占卜 / 八字](https://github.com/alibabama401/I-Ching-BaZi-Complete-Source)
 
 ## 重点方向
 
@@ -19,7 +19,7 @@ alibabama401 聚焦德州扑克俱乐部、德州金币大厅、德州竞技赛�
 | 项目 | 说明 |
 | --- | --- |
 | [texas-holdem-club](https://github.com/alibabama401/texas-holdem-club) | 德州扑克俱乐部源码，私人局，俱乐部，联盟以及八个德州玩法 |
-| [texas-holdem-engine](https://github.com/alibabama401/texas-holdem-engine) | 德州积分大厅 / 短牌，经典德州，SNG，单桌锦标赛，多桌锦标赛，私人局，排行榜 |
+| [Texas-Holdem-Online-Poker-Platform](https://github.com/alibabama401/Texas-Holdem-Online-Poker-Platform) | 德州积分大厅 / 短牌，经典德州，SNG，单桌锦标赛，多桌锦标赛，私人局，排行榜 |
 | [Texas-Hold-em-Tournament-Source-Code](https://github.com/alibabama401/Texas-Hold-em-Tournament-Source-Code) | 打门票/线下比赛/酒店住宿 | 支持TJPT/CPG等国内赛事|
 
 ## 德州 AI 与策略研究
