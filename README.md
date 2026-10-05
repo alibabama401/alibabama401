@@ -6,7 +6,7 @@
 
 ![德州扑克经典牌桌与玩法配置](docs/site-assets/screenshots/online-poker-classic.jpg)
 
-## 已核实公开项目
+## 项目
 
 | Repository | Description |
 | --- | --- |
