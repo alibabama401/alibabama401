@@ -2,7 +2,7 @@
 
 **简体中文** · [繁體中文](README.zh-TW.md) · [English](README.en.md) · [图文网站](https://alibabama401.github.io/alibabama401/)
 
-已核实的源码作品集，覆盖扑克平台、游戏大厅、通讯系统及传统文化 Web 工具。
+ 源码作品集，覆盖扑克平台、德州俱乐部、 德州积分大厅 、捕鱼源码、通讯系统及传统周易排盘文化 Web 工具。
 
 ![德州扑克经典牌桌与玩法配置](docs/site-assets/screenshots/online-poker-classic.jpg)
 
@@ -11,7 +11,7 @@
 | Repository | Description |
 | --- | --- |
 | [Texas-Holdem-Online-Poker-Platform](https://github.com/alibabama401/Texas-Holdem-Online-Poker-Platform) | 德州扑克在线大厅 |
-| [Texas-Holdem-Poker-Platform-Source-Code](https://github.com/alibabama401/Texas-Holdem-Poker-Platform-Source-Code) | 德州扑克平台源码 |
+| [Texas-Holdem-Poker-Platform-Source-Code](https://github.com/alibabama401/Texas-Holdem-Poker-Platform-Source-Code) | 德州扑克源码 |
 | [Texas-Hold-em-Tournament-Source-Code](https://github.com/alibabama401/Texas-Hold-em-Tournament-Source-Code) | 德州扑克赛事平台 |
 | [Fishing-Game-Complete-Source-Art](https://github.com/alibabama401/Fishing-Game-Complete-Source-Art) | 捕鱼游戏源码与美术 |
 | [Fishing-Game-Numeric-Copywriting](https://github.com/alibabama401/Fishing-Game-Numeric-Copywriting) | 捕鱼游戏数值与文案 |
@@ -19,7 +19,7 @@
 | [Card-Game-Platform-Source-Code](https://github.com/alibabama401/Card-Game-Platform-Source-Code) | 棋牌游戏平台源码 |
 | [Mahjong-Game-Hall-Source-Code](https://github.com/alibabama401/Mahjong-Game-Hall-Source-Code) | 麻将游戏大厅源码 |
 | [Source-Code-for-Instant-Messaging-IM-Office-Chat-System](https://github.com/alibabama401/Source-Code-for-Instant-Messaging-IM-Office-Chat-System) | 即时通讯与办公聊天源码 |
-| [I-Ching-BaZi-Complete-Source](https://github.com/alibabama401/I-Ching-BaZi-Complete-Source) | 周易与八字 Web 应用源码 |
+| [I-Ching-BaZi-Complete-Source](https://github.com/alibabama401/I-Ching-BaZi-Complete-Source) | 周易排盘与八字 Web 应用源码 |
 
 ## 产品、玩法与技术方向
 
