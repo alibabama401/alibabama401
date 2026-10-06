@@ -2,7 +2,7 @@
 
 **简体中文** · [繁體中文](README.zh-TW.md) · [English](README.en.md) · [图文网站](https://alibabama401.github.io/alibabama401/)
 
- 源码作品集，覆盖扑克平台、德州俱乐部、 德州积分大厅 、捕鱼源码、通讯系统及传统周易排盘文化 Web 工具。
+ 源码作品集，覆盖扑克平台、德州俱乐部、 德州积分大厅 、捕鱼源码、IM通讯系统及传统周易排盘文化 Web 工具。
 
 ![德州扑克经典牌桌与玩法配置](docs/site-assets/screenshots/online-poker-classic.jpg)
 
