@@ -30,19 +30,19 @@
 
 ## 产品截图
 
-![德州扑克经典牌桌与玩法配置](docs/site-assets/screenshots/online-poker-classic.jpg)
+![德州积分大厅经典牌桌与玩法配置](docs/site-assets/screenshots/online-poker-classic.jpg)
 
 *德州扑克经典牌桌与玩法配置*
 
-![多桌锦标赛界面](docs/site-assets/screenshots/online-poker-mtt.jpg)
+![德州积分大厅多桌锦标赛界面](docs/site-assets/screenshots/online-poker-mtt.jpg)
 
-*多桌锦标赛界面*
+*德州积分大厅多桌锦标赛界面*
 
-![私人牌桌与俱乐部创建界面](docs/site-assets/screenshots/poker-club.jpg)
+![德州俱乐部创建界面](docs/site-assets/screenshots/poker-club.jpg)
 
 *德州私人牌桌与德州俱乐部创建界面*
 
-![扑克赛事首页与资讯界面](docs/site-assets/screenshots/tournament-platform.jpg)
+![扑克赛事app首页与资讯界面](docs/site-assets/screenshots/tournament-platform.jpg)
 
 *扑克赛事首页与资讯界面*
 
